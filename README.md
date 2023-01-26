@@ -1,2 +1,1 @@
-# Fisher-EA-MQL4
- 
+# 漁夫 Fisher-EA-MQL4
